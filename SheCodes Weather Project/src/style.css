@@ -1,0 +1,59 @@
+body {
+  background: linear-gradient(
+    113.3deg,
+    rgb(134, 209, 228) -1.8%,
+    rgb(60, 80, 115) 86.4%
+  );
+  min-height: 100%;
+}
+
+.thirty-six,
+.seven,
+.fourteen {
+  padding-top: 20px;
+  text-align: center;
+}
+
+.geolocation {
+  position: relative;
+  text-align: center;
+}
+
+.card-body {
+  text-align: center;
+}
+
+.main-body {
+  position: relative;
+  top: 100px;
+}
+.city {
+  font-size: 20px;
+  font-weight: 600;
+  text-align: left;
+}
+.time {
+  font-style: italic;
+  text-align: left;
+  padding-left: 20px;
+}
+.temp {
+  font-size: 34px;
+  font-weight: 600;
+  text-align: right;
+}
+
+.numbers {
+  font-size: 12px;
+}
+.signature {
+  font-style: italic;
+  font-size: 14px;
+  padding-top: 30px;
+  text-align: center;
+  background: #fff;
+}
+
+.search-bar {
+  margin: 110px 0;
+}
